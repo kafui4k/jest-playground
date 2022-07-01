@@ -1,7 +1,7 @@
 {
-    "name": "test",
+    "name": "jest-playground",
     "version": "1.0.0",
-    "description": "",
+    "description": "playground to learn and write tests in Jest",
     "main": "index.js",
     "scripts": {
         "test": "jest --watchAll *.js"
